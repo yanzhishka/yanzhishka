@@ -15,6 +15,7 @@ I turn ideas into thoughtful digital products — from polished web experiences 
 - Building **[B.Nook](https://github.com/yanzhishka/BookNook)** — a social reading app with a personal library, reader, notes, and community.
 - Exploring web applications, Android development, and useful local tools.
 - Open to collaboration on interesting product ideas.
+- CEO of **[MilliardarMedia](https://milliardarmedia.ru/en/)**
 
 ## Selected work
 
